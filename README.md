@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cavemutt, aka Jencat&cavemutt.
+- 👋 Hi, I’m @cavemutt, aka JenCat & Cavemutt.
 - 👀 I’m interested in learning everything I possibly can, but I can't say that I'm a master at anything in particular. Learning is a never ending journey.
 - 🌱 I’m currently increasing my skills in web development, design, video editing, animation, photoshop, writing, painting and how to retain hope in a world that rejects reason, empathy, and being humane.
 - 💞️ I’m looking to collaborate on projects in need of front end help using HTML, CSS and Javascript. The ultimate goal is to continue using and learning any and all of the interests and skills listed above.
